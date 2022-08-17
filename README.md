@@ -5,13 +5,13 @@
 
 [Problem Statement](#Problem-Statement)
 
-[Summary](#Summary)
-[Data Dictionary](#Data-Dictionary)
-[Methodology](#Methodology)
-[Findings and Observations](#Findings-and-Observations)
-[Conclusions](#Conclusions)
-[Next Steps](#Next-Steps)
-[Bibliography](#Bibliography)
+[Summary](#Summary)  
+[Data Dictionary](#Data-Dictionary)  
+[Methodology](#Methodology)  
+[Findings and Observations](#Findings-and-Observations)  
+[Conclusions](#Conclusions)  
+[Next Steps](#Next-Steps)  
+[Bibliography](#Bibliography)  
 
 
 #### Problem Statement<a class="anchor" id="Problem-Statement"></a>
